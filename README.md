@@ -10,7 +10,7 @@
     </p>
 </p>
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## How The Game Works
 
 - The game consists of 5 different questions, each with 4 possible answers.
