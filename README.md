@@ -2,7 +2,7 @@
  
 </div>
 
-<h1 align="center">Eye Diseases Using Fundus</h1>
+<h1 align="center">Questions Game</h1>
 <p align="center">
  <img src="https://i.ibb.co/WPJC1RP/zyad-basic-file.png" alt="Logo" width="250"/> <img src="https://i.ibb.co/PcDgJL7/logo.png" width="180"/>
     <p align="center">   
