@@ -6,28 +6,26 @@
 <p align="center">
  <img src="https://i.ibb.co/WPJC1RP/zyad-basic-file.png" alt="Logo" width="250"/> <img src="https://i.ibb.co/PcDgJL7/logo.png" width="180"/>
     <p align="center">   
-The Project has done by using an organized ophthalmic database of 5,000 individuals containing age, color fundus images of the left and right eyes, and diagnostic keywords from doctors is called Ocular Disease Intelligent Recognition (ODIR). 
+10 distinct questions are in the game
     </p>
 </p>
 
-
-## Eye Disease Categories
-
-This document outlines the categories of eye diseases for classification purposes. The following categories are used to classify eye diseases:
-
-- Normal (N)
-- Diabetes (D)
-- Glaucoma (G)
-- Cataract (C)
-- Age-related Macular Degeneration (A)
-- Hypertension (H)
-- Pathological Myopia (M)
-- Other diseases/abnormalities (O)
-
-These categories are commonly used in the medical field for diagnosis and treatment of eye diseases.
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/96571298/230507314-ce688237-5a60-4798-b87c-7d47e77ccb8a.gif)
-
-
-
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+## How The Game Works
+
+- The game consists of 5 different questions, each with 4 possible answers.
+- When the game is launched, the player will be prompted to choose one of the 10 questions to answer.
+- Once a question has been answered correctly, the player's grade will be displayed and they will be prompted to choose another question.
+- If a player chooses the same question that has already been answered correctly, the code will prompt them to choose a different question.
+- The game will continue until the player has answered all 5 questions.
+
+## Game Keywords
+- Choose A number From 1 to 10
+- If you would like to see how many remaining chances write : CHANCES
+- If you would like to see the instructions write : HELP
+- If you would like to stop the game write : STOP
+- If you would like to go home page write : EXIT
+
+
+
+
