@@ -31,7 +31,3 @@
 ![Untitled design-2](https://user-images.githubusercontent.com/96571298/230610811-9f65013e-87e3-4226-a666-5fcbab1d63d5.gif)
 
 
-
-
-
-https://i.ibb.co/WPJC1RP/zyad-basic-file.png![image](https://github.com/Zyad-Abdelhafiz/Questions-Game/assets/96571298/284eb455-6306-4e29-861c-e0df4551dbf3)
