@@ -4,7 +4,7 @@
 
 <h1 align="center">Questions Game</h1>
 <p align="center">
-<img src="https://i.ibb.co/PcDgJL7/logo.png" width="180"/>
+<img src="https://i.ibb.co/PcDgJL7/logo.png" width="200"height="200"/>
     <p align="center">   
 10 distinct questions are in the game, 5 questions will be asked from them
     </p>
