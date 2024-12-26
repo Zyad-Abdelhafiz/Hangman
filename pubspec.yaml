@@ -1,12 +1,7 @@
-name: QuestionsGameProject
-description: A Dart package
-version: 1.0.1
-
+name: PROGRAMINGpackage
+version: 0.2.0
 environment:
-  sdk: ">=2.10.0 <3.0.0"
-
+  sdk: "2.12.2"
 dependencies:
-  http: ^0.13.3
-
-dev_dependencies:
-  test: ^1.0.0
+  ninja_prime: ^2.0.0
+ 
